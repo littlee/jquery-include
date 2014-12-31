@@ -1,7 +1,7 @@
 jquery-include
 ==============
 
-An simple way to include html using jQuery and AJAX
+A simple way to include html using jQuery and AJAX
 
 Usage
 =====
