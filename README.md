@@ -8,7 +8,7 @@ Usage
 
 1.include jquery and jquery.include.js
 ```html
-<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+<script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
 <script src="./jquery.include.js"></script>
 ```
 
